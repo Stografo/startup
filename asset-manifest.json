@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/startup/static/css/main.b1190a5d.chunk.css",
-    "main.js": "/startup/static/js/main.3a223f51.chunk.js",
-    "main.js.map": "/startup/static/js/main.3a223f51.chunk.js.map",
-    "runtime-main.js": "/startup/static/js/runtime-main.071324a2.js",
-    "runtime-main.js.map": "/startup/static/js/runtime-main.071324a2.js.map",
-    "static/js/2.c7d4eb42.chunk.js": "/startup/static/js/2.c7d4eb42.chunk.js",
-    "static/js/2.c7d4eb42.chunk.js.map": "/startup/static/js/2.c7d4eb42.chunk.js.map",
-    "static/js/3.ba085d01.chunk.js": "/startup/static/js/3.ba085d01.chunk.js",
-    "static/js/3.ba085d01.chunk.js.map": "/startup/static/js/3.ba085d01.chunk.js.map",
+    "main.css": "/startup/static/css/main.d0a7a13d.chunk.css",
+    "main.js": "/startup/static/js/main.952cb440.chunk.js",
+    "main.js.map": "/startup/static/js/main.952cb440.chunk.js.map",
+    "runtime-main.js": "/startup/static/js/runtime-main.972f63e5.js",
+    "runtime-main.js.map": "/startup/static/js/runtime-main.972f63e5.js.map",
+    "static/js/2.9a09ebc7.chunk.js": "/startup/static/js/2.9a09ebc7.chunk.js",
+    "static/js/2.9a09ebc7.chunk.js.map": "/startup/static/js/2.9a09ebc7.chunk.js.map",
+    "static/js/3.2a114da1.chunk.js": "/startup/static/js/3.2a114da1.chunk.js",
+    "static/js/3.2a114da1.chunk.js.map": "/startup/static/js/3.2a114da1.chunk.js.map",
     "index.html": "/startup/index.html",
-    "static/css/main.b1190a5d.chunk.css.map": "/startup/static/css/main.b1190a5d.chunk.css.map",
-    "static/js/2.c7d4eb42.chunk.js.LICENSE.txt": "/startup/static/js/2.c7d4eb42.chunk.js.LICENSE.txt",
+    "static/css/main.d0a7a13d.chunk.css.map": "/startup/static/css/main.d0a7a13d.chunk.css.map",
+    "static/js/2.9a09ebc7.chunk.js.LICENSE.txt": "/startup/static/js/2.9a09ebc7.chunk.js.LICENSE.txt",
     "static/media/corazon.32152117.svg": "/startup/static/media/corazon.32152117.svg",
-    "static/media/cursosEndScreen.60727ad2.svg": "/startup/static/media/cursosEndScreen.60727ad2.svg",
+    "static/media/cursosEndScreen.b185173a.png": "/startup/static/media/cursosEndScreen.b185173a.png",
     "static/media/logo.34b138e5.svg": "/startup/static/media/logo.34b138e5.svg",
     "static/media/menu-x.4fc9431e.svg": "/startup/static/media/menu-x.4fc9431e.svg",
     "static/media/menu.6e2d26b9.svg": "/startup/static/media/menu.6e2d26b9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.071324a2.js",
-    "static/js/2.c7d4eb42.chunk.js",
-    "static/css/main.b1190a5d.chunk.css",
-    "static/js/main.3a223f51.chunk.js"
+    "static/js/runtime-main.972f63e5.js",
+    "static/js/2.9a09ebc7.chunk.js",
+    "static/css/main.d0a7a13d.chunk.css",
+    "static/js/main.952cb440.chunk.js"
   ]
 }
